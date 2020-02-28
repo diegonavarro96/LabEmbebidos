@@ -2,7 +2,7 @@
 import time
 import serial
 import sys
-
+#hola 
 ser = serial.Serial('/dev/ttyAMA0',
  9600,
  timeout = 0,
